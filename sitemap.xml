@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://sjvasconcello.github.io/usm-template/intro2/</loc>
+         <lastmod>2023-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://sjvasconcello.github.io/usm-template/pandas/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>

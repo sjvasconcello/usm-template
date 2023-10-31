@@ -2,13 +2,13 @@
 
 # Project information
 site_name: Home
-site_url: https://github.com/fralfaro/DS-Python-Course
-site_author: Francisco Alfaro
-site_description:
+site_url: https://github.com/sjvasconcello/usm-template
+site_author: Santiago Vasconcello
+site_description: My Site
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: sjvasconcello/usm-template
+repo_url: https://github.com/sjvasconcello/usm-template
 edit_uri: ''
 
 

@@ -84,6 +84,8 @@ plugins:
 # TOC
 nav:
     - Home: index.md
+    - Mejor Intro:
+        - intro2.ipynb
     - Conceptos Básicos:
         - intro.ipynb
         - basic.ipynb
